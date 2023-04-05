@@ -2,3 +2,4 @@ The coding song!
 Song about HTML, CSS, & JS
 These are the tools of a web dev. 
 Node.js is the best the end!
+Browsers are amazing and Chrome and Firefox and Safari!
